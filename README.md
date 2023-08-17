@@ -20,7 +20,7 @@ Embark on a captivating exploration of transforming spoken English sentences int
 
 ## Get Started 🚀
 
-1. Clone this repository: `git clone https://github.com/RoshankumarS14/voice-translation.git` 📥
+1. Clone this repository: `git clone https://github.com/RoshankumarS14/Voice-Cloning.git` 📥
 2. Install prerequisites: See `requirements.txt` for libraries and versions. 📦
 3. Explore the Jupyter Notebook: Follow the captivating journey of each step in the project. 📔
 
