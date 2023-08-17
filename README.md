@@ -22,21 +22,13 @@ Embark on a captivating exploration of transforming spoken English sentences int
 
 1. Clone this repository: `git clone https://github.com/RoshankumarS14/Voice-Cloning.git` 📥
 2. Install prerequisites: See `requirements.txt` for libraries and versions. 📦
-3. Explore the Jupyter Notebook: [Voice Clone](https://github.com/RoshankumarS14/Voice-Cloning/blob/main/Voice%20cloning.ipynb)
+3. Explore the Jupyter Notebook: [Voice Cloning.ipynb](https://github.com/RoshankumarS14/Voice-Cloning/blob/main/Voice%20cloning.ipynb)
 4. Follow the captivating journey of each step in the project. 📔
 
 ## Input and Output Audio Files 🎧
 
 - **Input (English)**: [Elon Musk audio](https://github.com/RoshankumarS14/Voice-Cloning/blob/main/Elon%20Musk%20audio.mp3)
 - **Output (Hindi)**: [Elon Musk audio (Hindi)](https://github.com/RoshankumarS14/Voice-Cloning/blob/main/Elon%20Musk%20audio%20(Hindi).wav)
-
-## Showcase Your Creativity 🎉
-
-This project is more than code; it's an artistic expression of technology and language. Share your creations, stories, and experiences as you unveil the symphony of voices and words across linguistic horizons. 🌎🎨
-
-## Contribution 🤝
-
-Your contributions are valued and welcomed! Whether it's enhancing functionality, improving documentation, or adding new features, join us in this quest to create a transformative voice translation experience. 💪🌟
 
 ## Acknowledgements 👏
 
