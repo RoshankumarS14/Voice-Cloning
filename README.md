@@ -32,10 +32,6 @@ This project is more than code; it's an artistic expression of technology and la
 
 Your contributions are valued and welcomed! Whether it's enhancing functionality, improving documentation, or adding new features, join us in this quest to create a transformative voice translation experience. 💪🌟
 
-## License 📄
-
-This project is licensed under the [MIT License](LICENSE). 📜
-
 ## Acknowledgements 👏
 
 We extend our gratitude to the open-source community for the powerful libraries and tools that make this project possible. 🙌
