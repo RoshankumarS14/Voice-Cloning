@@ -26,8 +26,8 @@ Embark on a captivating exploration of transforming spoken English sentences int
 
 ## Input and Output Audio Files 🎧
 
-- **Input (English)**: [Elon Musk audio.WAV](https://github.com/RoshankumarS14/Voice-Cloning/blob/main/Elon%20Musk%20audio.mp3)
-- **Output (Hindi)**: [Elon Musk audio (Hindi).wav](./Elon%20Musk%20audio%20(Hindi).wav)
+- **Input (English)**: [Elon Musk audio](https://github.com/RoshankumarS14/Voice-Cloning/blob/main/Elon%20Musk%20audio.mp3)
+- **Output (Hindi)**: [Elon Musk audio (Hindi)](https://github.com/RoshankumarS14/Voice-Cloning/blob/main/Elon%20Musk%20audio%20(Hindi).wav)
 
 ## Showcase Your Creativity 🎉
 
