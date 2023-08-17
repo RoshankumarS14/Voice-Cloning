@@ -22,7 +22,8 @@ Embark on a captivating exploration of transforming spoken English sentences int
 
 1. Clone this repository: `git clone https://github.com/RoshankumarS14/Voice-Cloning.git` 📥
 2. Install prerequisites: See `requirements.txt` for libraries and versions. 📦
-3. Explore the Jupyter Notebook: Follow the captivating journey of each step in the project. 📔
+3. Explore the Jupyter Notebook: [Voice Clone](https://github.com/RoshankumarS14/Voice-Cloning/blob/main/Voice%20cloning.ipynb)
+4. Follow the captivating journey of each step in the project. 📔
 
 ## Input and Output Audio Files 🎧
 
