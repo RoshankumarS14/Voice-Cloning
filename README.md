@@ -26,8 +26,8 @@ Embark on a captivating exploration of transforming spoken English sentences int
 
 ## Input and Output Audio Files 🎧
 
-- **Input (English)**: [Elon Musk audio.WAV](./Elon_Musk_audio.WAV)
-- **Output (Hindi)**: [Elon Musk audio (Hindi).wav](./Elon_Musk_audio_(Hindi).wav)
+- **Input (English)**: [Elon Musk audio.WAV](./Elon%20Musk%20audio.WAV)
+- **Output (Hindi)**: [Elon Musk audio (Hindi).wav](./Elon%20Musk%20audio%20(Hindi).wav)
 
 ## Showcase Your Creativity 🎉
 
