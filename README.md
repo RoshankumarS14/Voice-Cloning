@@ -20,14 +20,14 @@ Embark on a captivating exploration of transforming spoken English sentences int
 
 ## Get Started 🚀
 
-1. Clone this repository: `git clone https://github.com/yourusername/voice-translation.git` 📥
+1. Clone this repository: `git clone https://github.com/RoshankumarS14/voice-translation.git` 📥
 2. Install prerequisites: See `requirements.txt` for libraries and versions. 📦
 3. Explore the Jupyter Notebook: Follow the captivating journey of each step in the project. 📔
 
 ## Input and Output Audio Files 🎧
 
-- **Input (English)**: [Elon Musk audio.WAV](./Elon Musk audio.WAV)
-- **Output (Hindi)**: [Elon Musk audio (Hindi).wav](./Elon Musk audio (Hindi).wav)
+- **Input (English)**: [Elon Musk audio.WAV](./Elon_Musk_audio.WAV)
+- **Output (Hindi)**: [Elon Musk audio (Hindi).wav](./Elon_Musk_audio_(Hindi).wav)
 
 ## Showcase Your Creativity 🎉
 
