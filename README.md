@@ -24,6 +24,11 @@ Embark on a captivating exploration of transforming spoken English sentences int
 2. Install prerequisites: See `requirements.txt` for libraries and versions. 📦
 3. Explore the Jupyter Notebook: Follow the captivating journey of each step in the project. 📔
 
+## Input and Output Audio Files 🎧
+
+- **Input (English)**: [Elon Musk audio.WAV](./Elon Musk audio.WAV)
+- **Output (Hindi)**: [Elon Musk audio (Hindi).wav](./Elon Musk audio (Hindi).wav)
+
 ## Showcase Your Creativity 🎉
 
 This project is more than code; it's an artistic expression of technology and language. Share your creations, stories, and experiences as you unveil the symphony of voices and words across linguistic horizons. 🌎🎨
